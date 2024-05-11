@@ -1,0 +1,67 @@
+
+.App {
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+   font-family: Arial, sans-serif;
+ }
+ 
+ h1 {
+   text-align: center;
+   margin-bottom: 20px;
+ }
+ 
+ .form-group {
+   margin-bottom: 20px;
+ }
+ 
+ .input-field {
+   width: 100%;
+   padding: 10px;
+   font-size: 16px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+ }
+ 
+ .btn {
+   padding: 10px 20px;
+   font-size: 16px;
+   background-color: #c5c6c8;
+   color: black;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+ }
+ 
+ .btn:hover {
+   background-color: #87CEFA;
+ }
+ 
+ .EventList {
+   margin-top: 40px;
+ }
+ 
+ .EventList h2 {
+   margin-bottom: 20px;
+ }
+ 
+ .EventList ul {
+   list-style-type: none;
+   padding: 0;
+ }
+ 
+ .EventList li {
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   padding: 10px;
+   margin-bottom: 10px;
+ }
+ 
+ .EventList li h3 {
+   margin-top: 0;
+ }
+ 
+ .EventList li p {
+   margin: 5px 0;
+ }
+ 
